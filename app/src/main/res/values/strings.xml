@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjectTemplate</string>
+    <string name="bottom_home">Home</string>
+    <string name="bottom_favorite">Favorite</string>
+    <string name="bottom_history">History</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_home_fragment">Hello home fragment</string>
+    <string name="hello_history_fragment">Hello history fragment</string>
+    <string name="hello_favorite_fragment">Hello favorite fragment</string>
+
+</resources>
